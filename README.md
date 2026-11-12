@@ -51,7 +51,7 @@ markitdown-lite/
 │   ├── i18n.py                 # TR / EN / RU dil sözlükleri ve ayar kaydı
 │   ├── logger.py               # Oturum loglama yardımcısı
 │   └── text_cleaner.py         # LLM odaklı metin temizleme kuralları
-├── run.bat                  # Windows başlatıcı ve otomatik kurulum betiği
+├── run.bat                     # Windows başlatıcı ve otomatik kurulum betiği
 ├── converter_app.pyw           # Uygulama giriş noktası (High-DPI desteği ile)
 └── requirements.txt            # Gerekli Python paketleri
 ```
@@ -103,7 +103,7 @@ markitdown-lite/
 │   ├── i18n.py                 # Словари TR / EN / RU и сохранение выбранного языка
 │   ├── logger.py               # Логирование сессии
 │   └── text_cleaner.py         # Постобработка текста для ИИ
-├── run.bat                  # Лаунчер для Windows с автоустановкой пакетов
+├── run.bat                     # Лаунчер для Windows с автоустановкой пакетов
 ├── converter_app.pyw           # Точка входа в приложение (с поддержкой High-DPI)
 └── requirements.txt            # Список необходимых библиотек Python
 ```
