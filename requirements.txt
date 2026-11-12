@@ -1,0 +1,11 @@
+markitdown
+pdfminer.six
+pdfplumber
+mammoth
+openpyxl
+pandas
+xlrd
+python-pptx
+lxml
+beautifulsoup4
+olefile
